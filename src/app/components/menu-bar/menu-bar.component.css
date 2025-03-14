@@ -9,6 +9,6 @@
 }
 
 .container__menu-bar > ul > li > a:hover {
-    background-color: aqua;
-    color: chocolate;
+    background-color: white;
+    color: black;
 }
